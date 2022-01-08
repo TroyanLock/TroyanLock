@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/TroyanLock">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TroyanLock&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&locale=pt-br&layout=default"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TroyanLock&layout=compact&langs_count=7&theme=vision-friendly-dark&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TroyanLock&layout=default&langs_count=7&theme=vision-friendly-dark&locale=pt-br&card_width=330em"/>
 </div>
 
 <div style="display: inline_block"><br>
