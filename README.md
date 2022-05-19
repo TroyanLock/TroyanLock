@@ -1,5 +1,6 @@
 ## Bem Vindo 👋
 
+- 💻 Originals intern na HogarthWW
 - 📚 Cursando engenharia de software na UNICSUL
 - 💙 Ex-Proano 2021.2
 - 🤩 Gosto de criatividade e coisas que despertem minha curiosidade
