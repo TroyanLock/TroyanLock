@@ -1,6 +1,6 @@
  <h1>Vincius Rodrigues</h1>
 <video autoplay muted playsinline style="width: 100%; object-fit: cover;">
-    <source src="./assets/github_bg.mp4" type="video/mp4">
+    <source src="./assets/github-bg-30fps.mp4" type="video/mp4">
 </video>
 
  <div>
