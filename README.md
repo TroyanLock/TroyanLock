@@ -52,3 +52,4 @@ Sou um profissional orientado a resultados, com foco em cumprir prazos e entrega
 
 - [Linkedin](https://linkedin.com/in/viniciuss-rodrigues) – Acesse meu linkedin.
 - [Currículo](https://drive.google.com/file/d/1ji-GF3hp22L7XvP-jTM_oVCx3bYfmGg5/view?usp=sharing) – Acesse meu currículo.
+- [Certificados](https://drive.google.com/drive/folders/11xWM19DokWrXlUEqvTJ1FlwTw82_bSu6?usp=sharing) – Acesse meus certificados.
